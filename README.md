@@ -1,1 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20yoonjongGithub&fontSize=90)
+<div align="center">
+  
+  ![header](https://capsule-render.vercel.app/api?type=Cylinder&text=YoonJongGithub&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=5)
+</div>
