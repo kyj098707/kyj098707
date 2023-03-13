@@ -31,7 +31,7 @@ Pusan National Univ.
 딥러닝 논문 구현 및 발표 스터디
 <a href="https://www.notion.so/gkswns3708/AI-DL-Study-e5cc40f62b86422b9967e48d246aba88" target="_blank"><img src="https://img.shields.io/badge/STUDY-000000?style=flat&logo=Notion&logoColor=white"/> 
 
-## ETC
+## etc.
 **1차 KT AIVLE Algorithm Competition** : First Prize
 
 
