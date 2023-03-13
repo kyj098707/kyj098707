@@ -18,18 +18,18 @@ Pusan National Univ.
 ### AI Competition
 **DACON**
 <br>2022 Samsung AI Challenge (3D Metrology) : private 28th / 139 (20%)
-<br><a href="https://dacon.io/competitions/official/235954/overview/description" target="_blank"><img src="https://img.shields.io/badge/데이콘 사이트-00599C?style=flat&logo=Dacon&logoColor=white"/> 
+<a href="https://dacon.io/competitions/official/235954/overview/description" target="_blank"><img src="https://img.shields.io/badge/데이콘 사이트-00599C?style=flat&logo=Dacon&logoColor=white"/> 
 
 포디블록 구조 추출 AI 경진대회 : prviate 25th / 461 (5.4%)
-<br><a href="https://dacon.io/competitions/official/236046/overview/description" target="_blank"><img src="https://img.shields.io/badge/데이콘 사이트-00599C?style=flat&logo=Dacon&logoColor=white"/> 
+<a href="https://dacon.io/competitions/official/236046/overview/description" target="_blank"><img src="https://img.shields.io/badge/데이콘 사이트-00599C?style=flat&logo=Dacon&logoColor=white"/> 
  
  **Kaggle**
 <br>AIVLE School 2nd Miniproject Competition : 3rd / 42 (7%)
-<br><a href="https://www.kaggle.com/competitions/aivle3mini2/" target="_blank"><img src="https://img.shields.io/badge/캐글 사이트-00599C?style=flat&logo=Kaggle&logoColor=white"/> 
+<a href="https://www.kaggle.com/competitions/aivle3mini2/" target="_blank"><img src="https://img.shields.io/badge/캐글 사이트-00599C?style=flat&logo=Kaggle&logoColor=white"/> 
 
 ### Studying
 딥러닝 논문 구현 및 발표 스터디
-<br><a href="https://www.notion.so/gkswns3708/AI-DL-Study-e5cc40f62b86422b9967e48d246aba88" target="_blank"><img src="https://img.shields.io/badge/STUDY-000000?style=flat&logo=Notion&logoColor=white"/> 
+<a href="https://www.notion.so/gkswns3708/AI-DL-Study-e5cc40f62b86422b9967e48d246aba88" target="_blank"><img src="https://img.shields.io/badge/STUDY-000000?style=flat&logo=Notion&logoColor=white"/> 
 
 ## ETC
 **1차 KT AIVLE Algorithm Competition** : First Prize
