@@ -1,8 +1,9 @@
 김윤종 <a href="https://americanoisice.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/americanoisice-20C997?style=flat&logo=Tistory&logoColor=6f4f28"/></a>
 ---
 🐧 I'm currently learning AI/ML, Backend, Django
+
 ### Language & Framework
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
 ## 🏫Educations
 Pusan National Univ.
 <br>: 2017.03 ~ 2023.02
