@@ -5,9 +5,11 @@
 ### SKILLS
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=red"/>
 ## 🏫Educations
-Google ML bootcamp(3rd)
+ Pusan National Univ
+<br>: 2017.03 ~ 2023.02
+<br> Google ML bootcamp(3rd)
 <br>: 2022.06 ~ 2022.10
-<br>KT Aivle school AI track(3rd)
+<br> KT Aivle school AI track(3rd)
 <br>: 2023.01 ~ 2023.07
 
 ## ✍️ Studying
@@ -17,4 +19,3 @@ Google ML bootcamp(3rd)
 
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=americanoisice)](https://solved.ac/americanoisice)
-![YoonJong's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyj098707&theme=vue&show_icons=true)
