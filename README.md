@@ -2,19 +2,16 @@
 ---
 🐧 I'm currently learning AI/ML, WEB
 
-### SKILLS
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=red"/>
-## 🏫Educations
- Pusan National Univ
-<br>: 2017.03 ~ 2023.02
-<br> Google ML bootcamp(3rd)
-<br>: 2022.06 ~ 2022.10
-<br> KT Aivle school AI track(3rd)
-<br>: 2023.01 ~ 2023.07
+### 🔨 SKILLS
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
+<br> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/> <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+<br> <img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/mariadb-003545?style=flat&logo=mariadb&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=red"/>
 
-## ✍️ Studying
-딥러닝 논문 구현 및 발표 스터디
-<br><a href="https://www.notion.so/gkswns3708/AI-DL-Study-e5cc40f62b86422b9967e48d246aba88" target="_blank"><img src="https://img.shields.io/badge/STUDY-000000?style=flat&logo=Notion&logoColor=white"/> 
+## 🏫 Educations
+ Pusan National Univ (2017.03 ~ 2023.02)
+<br> Google ML bootcamp (2022.06 ~ 2022.10)
+<br> KT Aivle school AI track (2023.01 ~ 2023.07)
 
 
 
