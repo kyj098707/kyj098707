@@ -9,9 +9,9 @@
 <br> <img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/mariadb-003545?style=flat&logo=mariadb&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=red"/>
 
 ## 🏫 Educations
- Univ. (2017.03 ~ 2023.02)
-<br> Google ML bootcamp (2022.06 ~ 2022.10)
-<br> KT Aivle school AI track (2023.01 ~ 2023.07)
+ Univ. (2017.03 - 2023.02)
+<br> Google ML bootcamp (2022.06 - 2022.10)
+<br> KT Aivle school AI track (2023.01 - 2023.07)
 
 
 
